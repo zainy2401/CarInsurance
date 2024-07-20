@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\zaiqu\\Desktop\\CarInsurance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87377431-6933-44C9-AEC8-787572E256B3}|CarInsurance\\CarInsurance.csproj|c:\\users\\zaiqu\\desktop\\carinsurance\\carinsurance\\views\\insuree\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87377431-6933-44C9-AEC8-787572E256B3}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\views\\insuree\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{87377431-6933-44C9-AEC8-787572E256B3}|CarInsurance\\CarInsurance.csproj|C:\\Users\\zaiqu\\Desktop\\CarInsurance\\carinsurance\\views\\insuree\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87377431-6933-44C9-AEC8-787572E256B3}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\views\\insuree\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87377431-6933-44C9-AEC8-787572E256B3}|CarInsurance\\CarInsurance.csproj|c:\\users\\zaiqu\\desktop\\carinsurance\\carinsurance\\views\\insuree\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87377431-6933-44C9-AEC8-787572E256B3}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\views\\insuree\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{87377431-6933-44C9-AEC8-787572E256B3}|CarInsurance\\CarInsurance.csproj|c:\\users\\zaiqu\\desktop\\carinsurance\\carinsurance\\views\\insuree\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87377431-6933-44C9-AEC8-787572E256B3}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\views\\insuree\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\zaiqu\\Desktop\\CarInsurance\\CarInsurance\\Views\\Insuree\\Index.cshtml",
               "RelativeDocumentMoniker": "CarInsurance\\Views\\Insuree\\Index.cshtml",
               "ToolTip": "C:\\Users\\zaiqu\\Desktop\\CarInsurance\\CarInsurance\\Views\\Insuree\\Index.cshtml",
               "RelativeToolTip": "CarInsurance\\Views\\Insuree\\Index.cshtml",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAAE0AAAANAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-20T19:34:43.757Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Admin.cshtml",
               "DocumentMoniker": "C:\\Users\\zaiqu\\Desktop\\CarInsurance\\CarInsurance\\Views\\Insuree\\Admin.cshtml",
               "RelativeDocumentMoniker": "CarInsurance\\Views\\Insuree\\Admin.cshtml",
               "ToolTip": "C:\\Users\\zaiqu\\Desktop\\CarInsurance\\CarInsurance\\Views\\Insuree\\Admin.cshtml",
               "RelativeToolTip": "CarInsurance\\Views\\Insuree\\Admin.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-20T19:34:42.272Z",
               "EditorCaption": ""
